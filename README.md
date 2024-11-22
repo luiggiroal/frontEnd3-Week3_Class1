@@ -2,6 +2,6 @@
 
 Class activity about the use of hooks using using `useState()`.
 
-![Screenshot](./src/assets/screenshot.png)
+![Screenshot](./src/assets/screenshot1.png)
 
 By ***Luiggi Rodríguez Aliaga***
