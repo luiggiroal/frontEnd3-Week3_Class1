@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.tasks-container {
+  display: flex;
+}
+
+.list-container {
+  border: 3px dotted gray;
+  border-radius: 10px;
+  margin: 20px;
+}
